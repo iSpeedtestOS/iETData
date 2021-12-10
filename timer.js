@@ -1,6 +1,6 @@
 var events = [
 	{
-		"name": "iEventTimer",
+		"name": "iEventTimer beta",
 		"evDate": "Oct 25, 2021 10:00:00 GMT-07:00",
 		"notificationID": "macos12release",
 		"tagline": "High powered meets Hi everyone.",
