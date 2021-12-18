@@ -3,7 +3,7 @@ var events = [
 		"name": "iEventTimer preorders",
 		"evDate": "Dec 18, 2021 10:00:00 GMT-07:00",
 		"notificationID": "iET",
-		"tagline": "Never miss an event.",
+		"tagline": "Going native.",
 		"kind": "preorder"
 	}
 ];
