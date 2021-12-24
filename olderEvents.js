@@ -1,0 +1,149 @@
+function olderEvents() {
+    document.getElementById("fix").classList.add("player");
+    //document.querySelectorAll("#oldVideo").forEach(player => {
+        //player.src = player.getAttribute("data-src");
+    //});
+    addOldEvents(6);
+    document.getElementById("oldEvents").classList.add("active");
+    document.body.style.position = "fixed";
+    refresher.destroy();
+}
+
+function closeOlderEvents() {
+    document.getElementById("oldEvents").classList.remove("active");
+    document.getElementById("fix").classList.remove("player");
+    document.body.style.position = "initial";
+    //document.querySelectorAll("#oldVideo").forEach(player => {
+        //player.src = null;
+    //});
+    let allEvents = document.getElementById("allEvents").innerHTML = "";
+    numberOfOldEvents = 0;
+    refresher = PullToRefresh.init({
+  mainElement: '#one', 
+  onRefresh: function() {
+
+setTimeout(function() {
+    sitecontent.classList.add("invisible");
+    oldEventsPage.classList.remove("active");
+    footer.classList.remove("animated");
+    setTimeout(function() {
+        aetlogo.classList.remove("animated");
+            setTimeout(function() {
+                window.location.reload();
+            }, 800);
+    }, 200);
+}, 100);
+
+  }
+});
+}
+
+//var oldEvents = [];
+
+var oldEvents = [
+		{
+			"name": "October 2021",
+			"url": "https://p-events-delivery.akamaized.net/1001azawzugclrwbvehhawhkerzwfetq/m3u8/vod_index-agCWsdckuFvVLyLxmYPmAmbvWchCtJQq.m3u8"
+		},
+		{
+			"name": "September 2021",
+			"url": "https://p-events-delivery.akamaized.net/1608dybnfpdpxtjascmtuvqexvyggavm/m3u8/vod_index-sMoFLPWqoKYiqpMDonkKjMGsbqGnKWso.m3u8"
+		},
+		{
+			"name": "WWDC 2021",
+			"url": "https://p-events-delivery.akamaized.net/1805asrvgvurxcrkewleraugwqathmvg/m3u8/vod_index-YVvsDudyWzBdgmtcMPabYTdjaWWmbLaA.m3u8"
+		},
+		{
+			"name": "April 2021",
+			"url": "https://p-events-delivery.akamaized.net/2503gakrdvgbtjurznurjjqymkcddibq/m3u8/vod_index-K6CoBBbf8HHUAvAfk9LyGj2iaPiGyi9d.m3u8"
+		},
+		{
+			"name": "November 2020",
+			"url": "https://p-events-delivery.akamaized.net/2010ayctcrodak763xivpxn4htcuhco9/m3u8/vod_index-2MxnV7vcNFJoAHxqBcV9CU3w3JsXVVgh.m3u8"
+		},
+		{
+			"name": "October 2020",
+			"url": "https://p-events-delivery.akamaized.net/2109isftrwvmiekgrjkbbhxhfbkxjkoj/m3u8/vod_index.m3u8"
+		},
+		{
+			"name": "September 2020",
+			"url": "https://p-events-delivery.akamaized.net/1108byjxmnoakagswdphbwatymztxxew/m3u8/vod_index.m3u8"
+		},
+		{
+			"name": "WWDC 2020",
+			"url": "https://p-events-delivery.akamaized.net/2605bdtgclbnfypwzfkzdsupvcyzhhbx/m3u8/hls_vod_mvp.m3u8"
+		},
+		{
+			"name": "September 2019",
+			"url": "https://p-events-delivery.akamaized.net/0208bkzcptukmgbpuqyfyqjhkxxtzwaw/m3u8/hls_vod_mvp.m3u8"
+		},
+		{
+			"name": "WWDC 2019",
+			"url": "https://p-events-delivery.akamaized.net/3004qzusahnbjppuwydgjzsdyzsippar/m3u8/hls_vod_mvp.m3u8"
+		},
+		{
+			"name": "March 2019",
+			"url": "https://p-events-delivery.akamaized.net/1902irnvksjfherhvkajxmyvnwjdkvld/m3u8/hls_ac_vod_mvp.m3u8"
+		},
+		{
+			"name": "October 2018",
+			"url": "https://p-events-delivery.akamaized.net/1810hbasdviuhbadsvouhibnascvokjn/vod/18iuhbedfviuhb10b.mp4"
+		},
+		{
+			"name": "September 2018",
+			"url": "https://p-events-delivery.akamaized.net/189kljhbasdcvjhasbdscvoahsbdcvaoshdbvaosdhbvasodhjbv/vod/1809lohijboijnij.mp4"
+		},
+		{
+			"name": "WWDC 2018",
+			"url": "https://p-events-delivery.akamaized.net/18oijbasfvuhbfsdvoijhbsdfvljkb6/vod/1806jbsdfvoijbsdfv.mp4"
+		},
+		{
+			"name": "March 2018",
+			"url": "https://p-events-delivery.akamaized.net/18oihuabsdfvoiuhbsdfv03/vod327/1803lohjbsdfvaspdijhbn.mp4"
+		},
+		{
+			"name": "September 2017",
+			"url": "https://p-events-delivery.akamaized.net/17oiubaewrvouhboiubasdfv09/vod3/1709jbiuygwdfiug.mp4"
+		},
+		{
+			"name": "WWDC 2017",
+			"url": "https://p-events-delivery.akamaized.net/17qopibbefvoiuhbsefvbsefvopihb06/vod2/1706iobnouhbljhbsdfv.mp4"
+		},
+		{
+			"name": "October 2016",
+			"url": "https://p-events-delivery.akamaized.net/16oibfvohbfvoihbdfvoihbefv10/vod5/1610oibadvoihbdvohb.mp4"
+		}
+	];
+	
+	// <div id="oldEventFull">October 2016<br><video id="oldVideo" data-src="https://p-events-delivery.akamaized.net/16oibfvohbfvoihbdfvoihbefv10/vod5/1610oibadvoihbdvohb.mp4" controls="" playsinline="true"></video></div>
+	
+	
+var numberOfOldEvents = 0;
+
+function addOldEvents(amount) {
+    let allEvents = document.getElementById("allEvents");
+    var number = 0;
+    
+    if (numberOfOldEvents + amount > oldEvents.length) {
+    	number = oldEvents.length - numberOfOldEvents;
+    } else {
+    	number = amount;
+    }
+    number += numberOfOldEvents;
+    
+    for (var i=numberOfOldEvents; i<number; i++) {
+    	let element = document.createElement("div");
+    	element.id = "oldEventFull";
+    	let name = oldEvents[i].name;
+    	let url = oldEvents[i].url;
+    	element.innerHTML = `${name}<br><video id="oldVideo" src="${url}" controls="" playsinline="true"></video>`;
+    	allEvents.appendChild(element);
+    }
+    numberOfOldEvents = number;
+    
+    if (number < oldEvents.length) {
+    	document.getElementById("moreOldEvents").style.display = "";
+    } else {
+    	document.getElementById("moreOldEvents").style.display = "none";
+    }
+}
