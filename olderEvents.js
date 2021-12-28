@@ -42,7 +42,7 @@ var oldEvents = [
 			"url": "https://p-events-delivery.akamaized.net/1001azawzugclrwbvehhawhkerzwfetq/m3u8/vod_index-agCWsdckuFvVLyLxmYPmAmbvWchCtJQq.m3u8"
 		},
 		{
-			"name": "September 2021",
+			"name": "California Streaming.",
 			"month": "September",
 			"year": 2021,
 			"url": "https://p-events-delivery.akamaized.net/1608dybnfpdpxtjascmtuvqexvyggavm/m3u8/vod_index-sMoFLPWqoKYiqpMDonkKjMGsbqGnKWso.m3u8"
@@ -54,25 +54,25 @@ var oldEvents = [
 			"url": "https://p-events-delivery.akamaized.net/1805asrvgvurxcrkewleraugwqathmvg/m3u8/vod_index-YVvsDudyWzBdgmtcMPabYTdjaWWmbLaA.m3u8"
 		},
 		{
-			"name": "April 2021",
+			"name": "Spring Loaded.",
 			"month": "April",
 			"year": 2021,
 			"url": "https://p-events-delivery.akamaized.net/2503gakrdvgbtjurznurjjqymkcddibq/m3u8/vod_index-K6CoBBbf8HHUAvAfk9LyGj2iaPiGyi9d.m3u8"
 		},
 		{
-			"name": "November 2020",
+			"name": "One more thing.",
 			"month": "November",
 			"year": 2020,
 			"url": "https://p-events-delivery.akamaized.net/2010ayctcrodak763xivpxn4htcuhco9/m3u8/vod_index-2MxnV7vcNFJoAHxqBcV9CU3w3JsXVVgh.m3u8"
 		},
 		{
-			"name": "October 2020",
+			"name": "Hi, Speed.",
 			"month": "October",
 			"year": 2020,
 			"url": "https://p-events-delivery.akamaized.net/2109isftrwvmiekgrjkbbhxhfbkxjkoj/m3u8/vod_index.m3u8"
 		},
 		{
-			"name": "September 2020",
+			"name": "Time flies.",
 			"month": "September",
 			"year": 2020,
 			"url": "https://p-events-delivery.akamaized.net/1108byjxmnoakagswdphbwatymztxxew/m3u8/vod_index.m3u8"
@@ -84,7 +84,7 @@ var oldEvents = [
 			"url": "https://p-events-delivery.akamaized.net/2605bdtgclbnfypwzfkzdsupvcyzhhbx/m3u8/hls_vod_mvp.m3u8"
 		},
 		{
-			"name": "September 2019",
+			"name": "By innovation only.",
 			"month": "September",
 			"year": 2019,
 			"url": "https://p-events-delivery.akamaized.net/0208bkzcptukmgbpuqyfyqjhkxxtzwaw/m3u8/hls_vod_mvp.m3u8"
@@ -96,19 +96,19 @@ var oldEvents = [
 			"url": "https://p-events-delivery.akamaized.net/3004qzusahnbjppuwydgjzsdyzsippar/m3u8/hls_vod_mvp.m3u8"
 		},
 		{
-			"name": "March 2019",
+			"name": "It's show time.",
 			"month": "March",
 			"year": 2019,
 			"url": "https://p-events-delivery.akamaized.net/1902irnvksjfherhvkajxmyvnwjdkvld/m3u8/hls_ac_vod_mvp.m3u8"
 		},
 		{
-			"name": "October 2018",
+			"name": "There's more in the making.",
 			"month": "October",
 			"year": 2018,
 			"url": "https://p-events-delivery.akamaized.net/1810hbasdviuhbadsvouhibnascvokjn/vod/18iuhbedfviuhb10b.mp4"
 		},
 		{
-			"name": "September 2018",
+			"name": "Gather round.",
 			"month": "September",
 			"year": 2018,
 			"url": "https://p-events-delivery.akamaized.net/189kljhbasdcvjhasbdscvoahsbdcvaoshdbvaosdhbvasodhjbv/vod/1809lohijboijnij.mp4"
@@ -120,13 +120,13 @@ var oldEvents = [
 			"url": "https://p-events-delivery.akamaized.net/18oijbasfvuhbfsdvoijhbsdfvljkb6/vod/1806jbsdfvoijbsdfv.mp4"
 		},
 		{
-			"name": "March 2018",
+			"name": "Let's take a field trip.",
 			"month": "March",
 			"year": 2018,
 			"url": "https://p-events-delivery.akamaized.net/18oihuabsdfvoiuhbsdfv03/vod327/1803lohjbsdfvaspdijhbn.mp4"
 		},
 		{
-			"name": "September 2017",
+			"name": "Let's meet at our place.",
 			"month": "September",
 			"year": 2017,
 			"url": "https://p-events-delivery.akamaized.net/17oiubaewrvouhboiubasdfv09/vod3/1709jbiuygwdfiug.mp4"
@@ -138,7 +138,7 @@ var oldEvents = [
 			"url": "https://p-events-delivery.akamaized.net/17qopibbefvoiuhbsefvbsefvopihb06/vod2/1706iobnouhbljhbsdfv.mp4"
 		},
 		{
-			"name": "October 2016",
+			"name": "hello again",
 			"month": "October",
 			"year": 2016,
 			"url": "https://p-events-delivery.akamaized.net/16oibfvohbfvoihbdfvoihbefv10/vod5/1610oibadvoihbdvohb.mp4"
