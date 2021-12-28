@@ -36,7 +36,7 @@ setTimeout(function() {
 
 var oldEvents = [
 		{
-			"name": "October 2021",
+			"name": "Unleashed.",
 			"month": "October",
 			"year": 2021,
 			"url": "https://p-events-delivery.akamaized.net/1001azawzugclrwbvehhawhkerzwfetq/m3u8/vod_index-agCWsdckuFvVLyLxmYPmAmbvWchCtJQq.m3u8"
