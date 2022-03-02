@@ -1,7 +1,7 @@
 var events = [
 	{
 		"name": "March Event",
-		"evDate": "Mar 08, 2021 10:00:00 GMT-08:00",
+		"evDate": "Mar 08, 2022 10:00:00 GMT-08:00",
 		"notificationID": "march2022",
 		"tagline": "Peek performance.",
 		"kind": "event"
@@ -10,9 +10,9 @@ var events = [
 
 
 //var eventDatee = new Date("Oct 5, 2021 6:00:00 GMT-07:00").getTime();
-var eventDate = new Date("Oct 25, 2021 10:00:00 GMT-07:00").getTime();
+var eventDate = new Date("Mar 08, 2022 10:00:00 GMT-08:00").getTime();
 
-var eventname = "macOS 12 release*";
+var eventname = "March event";
 
 var name = "<br><br>Time until  <br>" + eventname;
 var nameover = "<br><br>No Event <br> announced yet.";
