@@ -1,10 +1,10 @@
 var events = [
 	{
-		"name": "iEventTimer",
-		"evDate": "Dec 20, 2021 17:41:00 GMT-07:00",
-		"notificationID": "iET",
-		"tagline": "It's time to go. Native.",
-		"kind": "release"
+		"name": "March Event",
+		"evDate": "Mar 08, 2021 10:00:00 GMT-08:00",
+		"notificationID": "march2022",
+		"tagline": "Peek performance.",
+		"kind": "event"
 	}
 ];
 
