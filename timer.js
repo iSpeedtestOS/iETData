@@ -7,7 +7,6 @@ var events = [
 		"kind": "event"
 	}
 ];
-//PSE
 
 //var eventDatee = new Date("Oct 5, 2021 6:00:00 GMT-07:00").getTime();
 var eventDate = new Date("Mar 08, 2022 10:00:00 GMT-08:00").getTime();
