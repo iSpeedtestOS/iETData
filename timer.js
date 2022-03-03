@@ -1,7 +1,7 @@
 var events = [
 	{
 		"name": "March Event",
-		"evDate": "Mar 08, 2022 19:00:00 GMT+01:00",
+		"evDate": "Mar 08, 2022 10:00:00 GMT-07:00",
 		"notificationID": "march2022",
 		"tagline": "Peek performance.",
 		"kind": "event"
