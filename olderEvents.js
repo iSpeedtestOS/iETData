@@ -170,7 +170,7 @@ function addOldEvents(amount) {
     for (var i=numberOfOldEvents; i<number; i++) {
     	let element = document.createElement("div");
     	element.id = "oldEventFull";
-    	let name = oldEvents[i].month + oldEvents[i].year;
+    	let name = oldEvents[i].month + " " + oldEvents[i].year;
     	let url = oldEvents[i].url;
     	element.innerHTML = `${name}<br><video id="oldVideo" src="${url}" controls="" playsinline="true"></video>`;
     	allEvents.appendChild(element);
