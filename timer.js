@@ -12,6 +12,13 @@ var events = [
 		"notificationID": "iphone13green",
 		"tagline": "",
 		"kind": "preorder"
+	},
+	{
+		"name": "iPad Air 5 preorders",
+		"evDate": "Mar 11, 2022 14:00:00 GMT+01:00",
+		"notificationID": "ipadair5",
+		"tagline": "Light. Bright. Full of might.",
+		"kind": "preorder"
 	}
 ];
 
