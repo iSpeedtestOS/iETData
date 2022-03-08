@@ -40,7 +40,7 @@ var eventNameBox = document.getElementById('eventname');
 
 
 
-  //var jsonurl = "https://p-events-delivery.akamaized.net/1001jklfwykjcdkxyndbpoczombjjxzhdyqx/js_files/event/url.json";
+  var jsonurl = "https://events-delivery.apple.com/1402jykrbxqdezfecamnkmbnbkhqblafpaqb/js_files/event/url.json";
 
 
 
