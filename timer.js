@@ -7,7 +7,7 @@ var events = [
 		"kind": "preorder"
 	},
 	{
-		"name": "iPhone 13 & 13 Pro Green preorders",
+		"name": "Green iPhone 13 (& Pro) preorders",
 		"evDate": "Mar 11, 2022 14:00:00 GMT+01:00",
 		"notificationID": "iphone13green",
 		"tagline": "",
