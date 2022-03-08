@@ -1,10 +1,17 @@
 var events = [
 	{
-		"name": "March Event",
-		"evDate": "Mar 08, 2022 10:00:00 GMT-08:00",
-		"notificationID": "march2022",
-		"tagline": "Peek performance.",
-		"kind": "event"
+		"name": "iPhone SE 3 preorders",
+		"evDate": "Mar 11, 2022 14:00:00 GMT+01:00",
+		"notificationID": "iphonese3",
+		"tagline": "Love the power. Love the price.",
+		"kind": "preorder"
+	},
+	{
+		"name": "iPhone 13 & 13 Pro Green preorders",
+		"evDate": "Mar 11, 2022 14:00:00 GMT+01:00",
+		"notificationID": "iphone13green",
+		"tagline": "",
+		"kind": "preorder"
 	}
 ];
 
