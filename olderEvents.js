@@ -39,7 +39,7 @@ var oldEvents = [
 			"name": "Peek performance.",
 			"month": "March",
 			"year": 2022,
-			"url: "https://events-delivery.apple.com/1402uekefjejgldkvaqrqxgjmtehwhez/m3u8/vod_index-VEPhheWQmQZLrgakajRXoUbKAmmjVXxZ.m3u8"
+			"url": "https://events-delivery.apple.com/1402uekefjejgldkvaqrqxgjmtehwhez/m3u8/vod_index-VEPhheWQmQZLrgakajRXoUbKAmmjVXxZ.m3u8"
 		},
 		{
 			"name": "Unleashed.",
