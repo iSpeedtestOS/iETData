@@ -1,12 +1,5 @@
 var events = [
 	{
-		"name": "iPad Air 5 preorders",
-		"evDate": "Mar 11, 2022 14:00:00 GMT+01:00",
-		"notificationID": "ipadair5",
-		"tagline": "Light. Bright. Full of might.",
-		"kind": "preorder"
-	},
-	{
 		"name": "iPhone SE 3 preorders",
 		"evDate": "Mar 11, 2022 14:00:00 GMT+01:00",
 		"notificationID": "iphonese3",
@@ -19,8 +12,15 @@ var events = [
 		"notificationID": "iphone13green",
 		"tagline": "",
 		"kind": "preorder"
+	},
+	{
+		"name": "iPad Air 5 preorders",
+		"evDate": "Mar 11, 2022 14:00:00 GMT+01:00",
+		"notificationID": "ipadair5",
+		"tagline": "Light. Bright. Full of might.",
+		"kind": "preorder"
 	}
-];
+];//CZE
 
 //var eventDatee = new Date("Oct 5, 2021 6:00:00 GMT-07:00").getTime();
 var eventDate = new Date("Mar 08, 2022 10:00:00 GMT-08:00").getTime();
