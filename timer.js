@@ -9,9 +9,9 @@ var events = [
 ];
 
 //var eventDatee = new Date("Oct 5, 2021 6:00:00 GMT-07:00").getTime();
-var eventDate = new Date("Mar 08, 2022 10:00:00 GMT-08:00").getTime();
+var eventDate = new Date("Jun 06, 2022 10:00:00 GMT-07:00").getTime();
 
-var eventname = "March event";
+var eventname = "WWDC22";
 
 var name = "<br><br>Time until  <br>" + eventname;
 var nameover = "<br><br>No Event <br> announced yet.";
