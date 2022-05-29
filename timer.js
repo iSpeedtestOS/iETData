@@ -3,7 +3,7 @@ var events = [
 		"name": "WWDC22",
 		"evDate": "Jun 06, 2022 10:00:00 GMT-07:00",
 		"notificationID": "dubdub22",
-		"tagline": "Switfly approaching.",
+		"tagline": "Swiftly approaching.",
 		"kind": "event"
 	}
 ];
