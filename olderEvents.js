@@ -37,7 +37,7 @@ setTimeout(function() {
 var oldEvents = [
 		{
 			"name": "WWDC 2022",
-			"mnonth": "June",
+			"month": "June",
 			"year": 2022,
 			"url": "https://events-delivery.apple.com/0205eyyhwbbqexozkwmgccegwnjyrktg/m3u8/vod_index-dpyfrsVksFWjneFiptbXnAMYBtGYbXeZ.m3u8"
 		},
