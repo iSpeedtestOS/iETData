@@ -6,7 +6,7 @@ var events = [
 		"tagline": "Pro anywhere.",
 		"kind": "preorder"
 	}
-];//03020102
+];
 
 //var eventDatee = new Date("Oct 5, 2021 6:00:00 GMT-07:00").getTime();
 var eventDate = new Date("Jun 17, 2022 5:00:00 GMT-07:00").getTime();
