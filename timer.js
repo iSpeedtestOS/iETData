@@ -1,10 +1,10 @@
 var events = [
 	{
-		"name": "WWDC22",
-		"evDate": "Jun 06, 2022 10:00:00 GMT-07:00",
-		"notificationID": "dubdub22",
-		"tagline": "Swiftly approaching.",
-		"kind": "event"
+		"name": "M2 MacBook Pro preorders",
+		"evDate": "Jun 17, 2022 5:00:00 GMT-07:00",
+		"notificationID": "m2mbppre",
+		"tagline": "Pro anywhere.",
+		"kind": "preorder"
 	}
 ];//03020102
 
