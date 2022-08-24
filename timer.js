@@ -1,17 +1,17 @@
 var events = [
 	{
-		"name": "M2 MacBook Air preorders",
-		"evDate": "Jul 08, 2022 5:00:00 GMT-07:00",
-		"notificationID": "m2mbapre",
-		"tagline": "Don’t take it lightly.",
-		"kind": "preorder"
+		"name": "September event",
+		"evDate": "Sep 07, 2022 10:00:00 GMT-07:00",
+		"notificationID": "sept2022",
+		"tagline": "Far out.",
+		"kind": "event"
 	}
 ];
 
 //var eventDatee = new Date("Oct 5, 2021 6:00:00 GMT-07:00").getTime();
-var eventDate = new Date("Jul 08, 2022 5:00:00 GMT-07:00").getTime();
+var eventDate = new Date("Sep 07, 2022 10:00:00 GMT-07:00").getTime();
 
-var eventname = "M2 MacBook Air preorders";
+var eventname = "September event";
 
 var name = "<br><br>Time until  <br>" + eventname;
 var nameover = "<br><br>No Event <br> announced yet.";
