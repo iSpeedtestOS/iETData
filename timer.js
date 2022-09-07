@@ -1,10 +1,31 @@
 var events = [
 	{
-		"name": "September event",
-		"evDate": "Sep 07, 2022 10:00:00 GMT-07:00",
-		"notificationID": "sept2022",
-		"tagline": "Far out.",
-		"kind": "event"
+		"name": "iPhone 14 preorders",
+		"evDate": "Sep 09, 2022 05:00:00 GMT-07:00",
+		"notificationID": "ip14pre",
+		"tagline": "Big and bigger.",
+		"kind": "preorder"
+	},
+	{
+		"name": "iPhone 14 Pro preorders",
+		"evDate": "Sep 09, 2022 05:00:00 GMT-07:00",
+		"notificationID": "ip14propre",
+		"tagline": "Pro. Beyond.",
+		"kind": "preorder"
+	},
+	{
+		"name": "AirPods Pro 2 preorders",
+		"evDate": "Sep 09, 2022 05:00:00 GMT-07:00",
+		"notificationID": "airpodspro2pre",
+		"tagline": "",
+		"kind": "preorder"
+	},
+	{
+		"name": "iOS 16 release*",
+		"evDate": "Sep 12, 2022 10:00:00 GMT-07:00",
+		"notificationID": "ios16",
+		"tagline": "Personal is powerful.",
+		"kind": "release"
 	}
 ];
 
@@ -40,7 +61,7 @@ var eventNameBox = document.getElementById('eventname');
 
 
 
-  var jsonurl = "https://events-delivery.apple.com/2807pyhhspdxbfglgflwbxjxkmgfujrwmjwa/js_files/event/url.json";
+  //var jsonurl = "https://events-delivery.apple.com/2807pyhhspdxbfglgflwbxjxkmgfujrwmjwa/js_files/event/url.json";
 
 
 
