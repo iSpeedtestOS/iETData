@@ -30,9 +30,9 @@ var events = [
 ];
 
 //var eventDatee = new Date("Oct 5, 2021 6:00:00 GMT-07:00").getTime();
-var eventDate = new Date("Sep 07, 2022 10:00:00 GMT-07:00").getTime();
+var eventDate = new Date("Sep 09, 2022 05:00:00 GMT-07:00").getTime();
 
-var eventname = "September event";
+var eventname = "iPhone 14, Pro & AirPods Pro 2 preorders";
 
 var name = "<br><br>Time until  <br>" + eventname;
 var nameover = "<br><br>No Event <br> announced yet.";
