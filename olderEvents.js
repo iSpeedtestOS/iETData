@@ -36,6 +36,12 @@ setTimeout(function() {
 
 var oldEvents = [
 		{
+			"name": "Far out.",
+			"month": "September",
+			"year": 2022,
+			"url": "https://events-delivery.apple.com/2807skttevpekgjkgcyolyxgkexyahqp/m3u8/vod_index-bHTtMFcgdqmJGoHoDBPadNWwGwrNevrj.m3u8"
+		},
+		{
 			"name": "WWDC 2022",
 			"month": "June",
 			"year": 2022,
