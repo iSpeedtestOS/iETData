@@ -27,7 +27,7 @@ var events = [
 		"tagline": "Personal is powerful.",
 		"kind": "release"
 	}
-];//03040001
+];
 
 //var eventDatee = new Date("Oct 5, 2021 6:00:00 GMT-07:00").getTime();
 var eventDate = new Date("Sep 12, 2022 10:00:00 GMT-07:00").getTime();
