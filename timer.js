@@ -1,30 +1,16 @@
 var events = [
 	{
-		"name": "iPhone 14 preorders",
-		"evDate": "Sep 09, 2022 05:00:00 GMT-07:00",
-		"notificationID": "ip14pre",
-		"tagline": "Big and bigger.",
-		"kind": "preorder"
+		"name": "iPadOS/iOS 16.1 release*",
+		"evDate": "Oct 24, 2022 10:00:00 GMT-07:00",
+		"notificationID": "ipados16",
+		"tagline": "Incredibly capable.",
+		"kind": "release"
 	},
 	{
-		"name": "iPhone 14 Pro preorders",
-		"evDate": "Sep 09, 2022 05:00:00 GMT-07:00",
-		"notificationID": "ip14propre",
-		"tagline": "Pro. Beyond.",
-		"kind": "preorder"
-	},
-	{
-		"name": "AirPods Pro 2 preorders",
-		"evDate": "Sep 09, 2022 05:00:00 GMT-07:00",
-		"notificationID": "airpodspro2pre",
-		"tagline": "",
-		"kind": "preorder"
-	},
-	{
-		"name": "iOS 16 release*",
-		"evDate": "Sep 12, 2022 10:00:00 GMT-07:00",
-		"notificationID": "ios16",
-		"tagline": "Personal is powerful.",
+		"name": "macOS 13 release*",
+		"evDate": "Oct 24, 2022 10:00:00 GMT-07:00",
+		"notificationID": "ipados16",
+		"tagline": "Works smarter. Plays harder. Goes further.",
 		"kind": "release"
 	}
 ];
