@@ -9,7 +9,7 @@ var events = [
 	{
 		"name": "macOS 13 release*",
 		"evDate": "Oct 24, 2022 10:00:00 GMT-07:00",
-		"notificationID": "ipados16",
+		"notificationID": "macos13",
 		"tagline": "Works smarter. Plays harder. Goes further.",
 		"kind": "release"
 	}
