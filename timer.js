@@ -16,9 +16,9 @@ var events = [
 ];
 
 //var eventDatee = new Date("Oct 5, 2021 6:00:00 GMT-07:00").getTime();
-var eventDate = new Date("Sep 12, 2022 10:00:00 GMT-07:00").getTime();
+var eventDate = new Date("Oct 24, 2022 10:00:00 GMT-07:00").getTime();
 
-var eventname = "iOS 16 Release";
+var eventname = "iOS/iPadOS 16.1 <br>& macOS 13 Release";
 
 var name = "<br><br>Time until  <br>" + eventname;
 var nameover = "<br><br>No Event <br> announced yet.";
