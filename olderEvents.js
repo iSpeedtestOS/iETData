@@ -36,6 +36,12 @@ setTimeout(function() {
 
 var oldEvents = [
 		{
+			"name": "MacBook Pro & Mac mini 2023",
+			"month": "January",
+			"year": 2023,
+			"url": "https://www.apple.com/105/media/us/mac/2022/56a714a6-7476-4896-b369-0ee5fa649290/films/macbook-pro-14-and-16-mac-mini-product/mac-macbook-pro-14-and-16-mac-mini-product-tpl-us-2022_16x9.m3u8"
+		},
+		{
 			"name": "Far out.",
 			"month": "September",
 			"year": 2022,
