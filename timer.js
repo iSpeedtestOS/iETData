@@ -1,17 +1,10 @@
 var events = [
 	{
-		"name": "iPadOS/iOS 16.1 release*",
-		"evDate": "Oct 24, 2022 10:00:00 GMT-07:00",
-		"notificationID": "ipados16",
-		"tagline": "Incredibly capable.",
-		"kind": "release"
-	},
-	{
-		"name": "macOS 13 release*",
-		"evDate": "Oct 24, 2022 10:00:00 GMT-07:00",
-		"notificationID": "macos13",
-		"tagline": "Works smarter. Plays harder. Goes further.",
-		"kind": "release"
+		"name": "WWDC 2023",
+		"evDate": "Jun 05, 2023 10:00:00 GMT-07:00",
+		"notificationID": "wwdc23",
+		"tagline": "",
+		"kind": "event"
 	}
 ];
 
