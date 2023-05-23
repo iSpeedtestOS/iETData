@@ -3,7 +3,7 @@ var events = [
 		"name": "WWDC 2023",
 		"evDate": "Jun 05, 2023 10:00:00 GMT-07:00",
 		"notificationID": "wwdc23",
-		"tagline": "",
+		"tagline": "Swiftly developing.",
 		"kind": "event"
 	}
 ];
