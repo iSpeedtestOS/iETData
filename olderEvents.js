@@ -36,6 +36,12 @@ setTimeout(function() {
 
 var oldEvents = [
 		{
+			"name": "WWDC 2023",
+			"month": "June",
+			"year": 2023,
+			"url": "https://events-delivery.apple.com/0105cftwpxxsfrpdwklppzjhjocakrsk/m3u8/vod_index-PQsoJoECcKHTYzphNkXohHsQWACugmET.m3u8"
+		},
+		{
 			"name": "MacBook Pro & Mac mini 2023",
 			"month": "January",
 			"year": 2023,
