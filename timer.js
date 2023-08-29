@@ -1,7 +1,7 @@
 var events = [
 	{
 		"name": "September event",
-		"evDate": "Sep 13, 2023 10:00:00 GMT-07:00",
+		"evDate": "Sep 12, 2023 10:00:00 GMT-07:00",
 		"notificationID": "sep23",
 		"tagline": "Wonderlust.",
 		"kind": "event"
