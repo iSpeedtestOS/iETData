@@ -1,9 +1,9 @@
 var events = [
 	{
-		"name": "WWDC 2023",
-		"evDate": "Jun 05, 2023 10:00:00 GMT-07:00",
-		"notificationID": "wwdc23",
-		"tagline": "Swiftly developing.",
+		"name": "September event",
+		"evDate": "Sep 13, 2023 10:00:00 GMT-07:00",
+		"notificationID": "sep23",
+		"tagline": "Wonderlust.",
 		"kind": "event"
 	}
 ];
