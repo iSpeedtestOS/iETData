@@ -9,9 +9,9 @@ var events = [
 ];
 
 //var eventDatee = new Date("Oct 5, 2021 6:00:00 GMT-07:00").getTime();
-var eventDate = new Date("Jun 05, 2023 10:00:00 GMT-07:00").getTime();
+var eventDate = new Date("Sep 12, 2023 10:00:00 GMT-07:00").getTime();
 
-var eventname = "WWDC 2023";
+var eventname = "September Event";
 
 var name = "<br><br>Time until  <br>" + eventname;
 var nameover = "<br><br>No Event <br> announced yet.";
