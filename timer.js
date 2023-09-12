@@ -5,6 +5,20 @@ var events = [
 		"notificationID": "sep23",
 		"tagline": "Wonderlust.",
 		"kind": "event"
+	},
+	{
+		"name": "iPhone 15 preorders",
+		"evDate": "Sep 15, 2023 05:00:00 GMT-07:00",
+		"notificationID": "15Pre",
+		"tagline": "Newphoria.",
+		"kind": "preorder"
+	},
+	{
+		"name": "iPhone 15 Pro preorders",
+		"evDate": "Sep 15, 2023 05:00:00 GMT-07:00",
+		"notificationID": "15Propre",
+		"tagline": "Titanium.",
+		"kind": "preorder"
 	}
 ];
 
