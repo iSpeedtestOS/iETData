@@ -19,6 +19,20 @@ var events = [
 		"notificationID": "15Propre",
 		"tagline": "Titanium.",
 		"kind": "preorder"
+	},
+	{
+		"name": "iOS 17 release*",
+		"evDate": "Sep 18, 2023 10:00:00 GMT-07:00",
+		"notificationID": "ios17rel",
+		"tagline": "Every day. More extraordinary.",
+		"kind": "release"
+	},
+	{
+		"name": "macOS 14 release*",
+		"evDate": "Sep 26, 2023 10:00:00 GMT-07:00",
+		"notificationID": "macos14rel",
+		"tagline": "Come for the power.\nStay for the fun.",
+		"kind": "release"
 	}
 ];
 
