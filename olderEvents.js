@@ -36,6 +36,12 @@ setTimeout(function() {
 
 var oldEvents = [
 		{
+			"name": "Wonderlust.",
+			"month": "September",
+			"year": 2023,
+			"url": "https://events-delivery.apple.com/1008yunfyueoofvvgxpjmmvcblgnjsel/m3u8/vod_index-CtXiJhDFfUsjjmudzvWNpveYoQAuZgpd.m3u8"
+		},
+		{
 			"name": "WWDC 2023",
 			"month": "June",
 			"year": 2023,
