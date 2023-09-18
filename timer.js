@@ -21,7 +21,7 @@ var events = [
 		"kind": "preorder"
 	},
 	{
-		"name": "iOS 17 release*",
+		"name": "iOS 17 release",
 		"evDate": "Sep 18, 2023 10:00:00 GMT-07:00",
 		"notificationID": "ios17rel",
 		"tagline": "Every day. More extraordinary.",
