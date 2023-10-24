@@ -1,38 +1,10 @@
 var events = [
 	{
-		"name": "September event",
-		"evDate": "Sep 12, 2023 10:00:00 GMT-07:00",
-		"notificationID": "sep23",
-		"tagline": "Wonderlust.",
+		"name": "October event",
+		"evDate": "Oct 30, 2023 17:00:00 GMT-07:00",
+		"notificationID": "oct23",
+		"tagline": "Scary fast.",
 		"kind": "event"
-	},
-	{
-		"name": "iPhone 15 preorders",
-		"evDate": "Sep 15, 2023 05:00:00 GMT-07:00",
-		"notificationID": "15Pre",
-		"tagline": "Newphoria.",
-		"kind": "preorder"
-	},
-	{
-		"name": "iPhone 15 Pro preorders",
-		"evDate": "Sep 15, 2023 05:00:00 GMT-07:00",
-		"notificationID": "15Propre",
-		"tagline": "Titanium.",
-		"kind": "preorder"
-	},
-	{
-		"name": "iOS 17 release",
-		"evDate": "Sep 18, 2023 10:00:00 GMT-07:00",
-		"notificationID": "ios17rel",
-		"tagline": "Every day. More extraordinary.",
-		"kind": "release"
-	},
-	{
-		"name": "macOS 14 release*",
-		"evDate": "Sep 26, 2023 10:00:00 GMT-07:00",
-		"notificationID": "macos14rel",
-		"tagline": "Come for the power.\nStay for the fun.",
-		"kind": "release"
 	}
 ];
 
