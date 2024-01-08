@@ -1,10 +1,10 @@
 var events = [
 	{
-		"name": "October event",
-		"evDate": "Oct 30, 2023 17:00:00 GMT-07:00",
-		"notificationID": "oct23",
-		"tagline": "Scary fast.",
-		"kind": "event"
+		"name": "Vision Pro preorders",
+		"evDate": "Jan 19, 2024 05:00:00 GMT-08:00",
+		"notificationID": "visionpropre",
+		"tagline": "Spatial computing.",
+		"kind": "preorder"
 	}
 ];
 
