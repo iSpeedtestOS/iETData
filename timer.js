@@ -1,6 +1,6 @@
 var events = [
 	{
-		"name": "Vision Pro preorders",
+		"name": "Vision Pro preorders (USA)",
 		"evDate": "Jan 19, 2024 05:00:00 GMT-08:00",
 		"notificationID": "visionpropre",
 		"tagline": "Spatial computing.",
