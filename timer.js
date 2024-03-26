@@ -1,6 +1,6 @@
 var events = [
 	{
-		"name": "WWDC 24",
+		"name": "WWDC24",
 		"evDate": "Jun 10, 2024 10:00:00 GMT-07:00",
 		"notificationID": "wwdc24",
 		"tagline": "",
@@ -11,7 +11,7 @@ var events = [
 //var eventDatee = new Date("Oct 5, 2021 6:00:00 GMT-07:00").getTime();
 var eventDate = new Date("Jun 10, 2024 10:00:00 GMT-07:00").getTime();
 
-var eventname = "WWDC 24";
+var eventname = "WWDC24";
 
 var name = "<br><br>Time until  <br>" + eventname;
 var nameover = "<br><br>No Event <br> announced yet.";
