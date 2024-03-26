@@ -1,17 +1,17 @@
 var events = [
 	{
-		"name": "Vision Pro preorders (USA)",
-		"evDate": "Jan 19, 2024 05:00:00 GMT-08:00",
-		"notificationID": "visionpropre",
-		"tagline": "Spatial computing.",
-		"kind": "preorder"
+		"name": "WWDC 24",
+		"evDate": "Jun 10, 2024 10:00:00 GMT-07:00",
+		"notificationID": "wwdc24",
+		"tagline": "",
+		"kind": "event"
 	}
 ];
 
 //var eventDatee = new Date("Oct 5, 2021 6:00:00 GMT-07:00").getTime();
-var eventDate = new Date("Sep 12, 2023 10:00:00 GMT-07:00").getTime();
+var eventDate = new Date("Jun 10, 2024 10:00:00 GMT-07:00").getTime();
 
-var eventname = "September Event";
+var eventname = "WWDC 24";
 
 var name = "<br><br>Time until  <br>" + eventname;
 var nameover = "<br><br>No Event <br> announced yet.";
