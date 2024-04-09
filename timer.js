@@ -6,7 +6,7 @@ var events = [
 		"tagline": "",
 		"kind": "event"
 	}
-];//04010001
+];
 
 //var eventDatee = new Date("Oct 5, 2021 6:00:00 GMT-07:00").getTime();
 var eventDate = new Date("Jun 10, 2024 10:00:00 GMT-07:00").getTime();
