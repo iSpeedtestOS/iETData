@@ -1,5 +1,12 @@
 var events = [
 	{
+		"name": "Apple Event",
+		"evDate": "May 07, 2024 07:00:00 GMT-07:00",
+		"notificationID": "lezloose",
+		"tagline": "Let loose.",
+		"kind": "event"
+	},
+	{
 		"name": "WWDC24",
 		"evDate": "Jun 10, 2024 10:00:00 GMT-07:00",
 		"notificationID": "wwdc24",
