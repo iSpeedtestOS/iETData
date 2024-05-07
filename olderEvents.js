@@ -36,6 +36,12 @@ setTimeout(function() {
 
 var oldEvents = [
 		{
+			"name": "Let loose.",
+			"month": "May",
+			"year": 2024,
+			"url": "https://events-delivery.apple.com/2403kaqfcpzjjnpkkkkmbtyqacnyrknu/m3u8/vod_index-FWvkXNNmsRMrZDXBaxokUYtHsLjfLzXu.m3u8"
+		},
+		{
 			"name": "Scary fast.",
 			"month": "October",
 			"year": 2023,
