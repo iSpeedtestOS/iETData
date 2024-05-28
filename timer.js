@@ -10,7 +10,7 @@ var events = [
 		"name": "WWDC24",
 		"evDate": "Jun 10, 2024 10:00:00 GMT-07:00",
 		"notificationID": "wwdc24",
-		"tagline": "",
+		"tagline": "Coming in swiftly.",
 		"kind": "event"
 	}
 ];
