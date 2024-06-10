@@ -36,6 +36,12 @@ setTimeout(function() {
 
 var oldEvents = [
 		{
+			"name": "WWDC 2024",
+			"month": "June",
+			"year": 2024,
+			"url": "https://events-delivery.apple.com/1505clvgxdwlbjrjhxtjdgcdxaiabvuf/m3u8/vod_index-LHDoZDhTrsKLsbrZKqYpbWraixsWQHkw.m3u8"
+		},
+		{
 			"name": "Let loose.",
 			"month": "May",
 			"year": 2024,
