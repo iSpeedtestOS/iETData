@@ -36,6 +36,12 @@ setTimeout(function() {
 
 var oldEvents = [
 		{
+			"name": "It's Glowtime.",
+			"month": "September",
+			"year": 2024,
+			"url": "https://events-delivery.apple.com/2907awdhsyhpvlytqgjqgskvlqzxnhph/m3u8/vod_index-wQcWZLpctCRAsNbtagWZNbgMeoyExYKV.m3u8"
+		},
+		{
 			"name": "WWDC 2024",
 			"month": "June",
 			"year": 2024,
