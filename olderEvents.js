@@ -36,6 +36,18 @@ setTimeout(function() {
 
 var oldEvents = [
 		{
+			"name": "Mac mini",
+			"month": "October",
+			"year": 2024,
+			"url": "https://www.apple.com/105/media/us/mac-mini/2024/58e5921e-f447-487a-a789-3452c23b8400/films/announcement/mac-mini-announcement-tpl-us-2024_16x9.m3u8"
+		},
+		{
+			"name": "iMac",
+			"month": "October",
+			"year": 2024,
+			"url": "https://www.apple.com/105/media/us/imac/2024/e1d50c6b-bc34-47bd-850d-379149b71fb8/films/announcement/imac-announcement-tpl-us-2024_16x9.m3u8"
+		},
+		{
 			"name": "It's Glowtime.",
 			"month": "September",
 			"year": 2024,
