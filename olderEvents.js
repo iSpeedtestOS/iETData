@@ -36,6 +36,12 @@ setTimeout(function() {
 
 var oldEvents = [
 		{
+			"name": "MacBook Pro",
+			"month": "October",
+			"year": 2024,
+			"url": "https://www.apple.com/105/media/us/macbook-pro/2024/00a46e4c-adb6-4301-aa38-917d219bff07/films/announcement/macbook-pro-announcement-tpl-us-2024_16x9.m3u8"
+		},
+		{
 			"name": "Mac mini",
 			"month": "October",
 			"year": 2024,
