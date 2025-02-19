@@ -1,17 +1,10 @@
 var events = [
 	{
-		"name": "iPhone 16 preorders",
-		"evDate": "Sep 13, 2024 05:00:00 GMT-07:00",
-		"notificationID": "ip16pre",
-		"tagline": "Hello, Apple Intelligence.",
+		"name": "iPhone 16e preorders",
+		"evDate": "Feb 21, 2025 05:00:00 GMT-08:00",
+		"notificationID": "ip16epre",
+		"tagline": "Latest iPhone. Greatest price.",
 		"kind": "preorder"
-	},
-	{
-		"name": "iOS 18 release*",
-		"evDate": "Sep 16, 2024 10:00:00 GMT-07:00",
-		"notificationID": "ios18",
-		"tagline": "Yours. Truly.",
-		"kind": "release"
 	}
 ];
 
