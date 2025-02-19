@@ -36,6 +36,12 @@ setTimeout(function() {
 
 var oldEvents = [
 		{
+			"name": "iPhone 16e",
+			"month": "February",
+			"year": 2025,
+			"url": "https://www.apple.com/105/media/us/iphone-16e/2025/d9015f23-5cc1-45b4-b25a-2b1caee9d7ac/films/announcement/iphone-16e-announcement-tpl-us-2025_16x9.m3u8"
+		},
+		{
 			"name": "MacBook Pro",
 			"month": "October",
 			"year": 2024,
