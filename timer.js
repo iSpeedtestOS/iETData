@@ -1,10 +1,10 @@
 var events = [
 	{
-		"name": "iPhone 16e preorders",
-		"evDate": "Feb 21, 2025 05:00:00 GMT-08:00",
-		"notificationID": "ip16epre",
-		"tagline": "Latest iPhone. Greatest price.",
-		"kind": "preorder"
+		"name": "WWDC25",
+		"evDate": "Jun 09, 2025 10:00:00 GMT-07:00",
+		"notificationID": "wwdc25",
+		"tagline": "",
+		"kind": "event"
 	}
 ];
 
