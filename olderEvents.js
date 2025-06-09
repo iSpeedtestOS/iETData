@@ -36,6 +36,12 @@ setTimeout(function() {
 
 var oldEvents = [
 		{
+			"name": "WWDC 2025",
+			"month": "June",
+			"year": 2025,
+			"url": "https://events-delivery.apple.com/0705ssefukzgmvtafvdghmccmofevkcb/m3u8/vod_index-joowRJLcCBPCthnkzxWwyZCUDqDsNaCG.m3u8"
+		},
+		{
 			"name": "iPhone 16e",
 			"month": "February",
 			"year": 2025,
