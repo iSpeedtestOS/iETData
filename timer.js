@@ -1,10 +1,10 @@
 var events = [
 	{
-		"name": "September event",
-		"evDate": "Sep 09, 2025 10:00:00 GMT-07:00",
-		"notificationID": "sept2025",
-		"tagline": "Awe dropping.",
-		"kind": "event"
+		"name": "iPhone preorders",
+		"evDate": "Sep 12, 2025 05:00:00 GMT-07:00",
+		"notificationID": "sept2025pre",
+		"tagline": "",
+		"kind": "preorder"
 	}
 ];
 
@@ -40,7 +40,7 @@ var eventNameBox = document.getElementById('eventname');
 
 
 
-  var jsonurl = "https://events-delivery.apple.com/1208payyvqmtrdpxdghbxjqjtjnnymwfaxye/js_files/event/url.json";
+  //var jsonurl = "https://events-delivery.apple.com/1208payyvqmtrdpxdghbxjqjtjnnymwfaxye/js_files/event/url.json";
 
 
 
