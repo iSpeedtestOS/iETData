@@ -3,7 +3,7 @@ var events = [
 		"name": "iPhone preorders",
 		"evDate": "Sep 12, 2025 05:00:00 GMT-07:00",
 		"notificationID": "sept2025pre",
-		"tagline": "iPhone 17, Air, and 17 Pros",
+		"tagline": "iPhone Air, 17, and 17 Pros",
 		"kind": "preorder"
 	}
 ];
