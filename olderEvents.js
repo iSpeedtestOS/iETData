@@ -36,6 +36,12 @@ setTimeout(function() {
 
 var oldEvents = [
 		{
+			"name": "Awe Dropping.",
+			"month": "September",
+			"year": 2025,
+			"url": "https://events-delivery.apple.com/1208epinirnubocgyngedcvpuacuxred/m3u8/vod_index-LCdGPniMnwieLjznjgFWrHbmwmHmTsZB.m3u8"
+		},
+		{
 			"name": "WWDC 2025",
 			"month": "June",
 			"year": 2025,
