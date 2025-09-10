@@ -5,6 +5,13 @@ var events = [
 		"notificationID": "sept2025pre",
 		"tagline": "iPhone Air, 17, and 17 Pros",
 		"kind": "preorder"
+	},
+	{
+		"name": "iOS 26 release*",
+		"evDate": "Sep 15, 2025 10:00:00 GMT-07:00",
+		"notificationID": "ios26release",
+		"tagline": "",
+		"kind": "release"
 	}
 ];
 
