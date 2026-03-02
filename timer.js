@@ -1,9 +1,9 @@
 var events = [
 	{
-		"name": "iPhone preorders",
-		"evDate": "Sep 12, 2025 05:00:00 GMT-07:00",
-		"notificationID": "sept2025pre",
-		"tagline": "iPhone Air, 17, and 17 Pros",
+		"name": "iPhone 17e & iPad Air M4 preorders",
+		"evDate": "Mar 04, 2026 06:15:00 GMT-08:00",
+		"notificationID": "mar2026pre",
+		"tagline": "",
 		"kind": "preorder"
 	},
 	{
