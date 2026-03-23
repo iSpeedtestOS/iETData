@@ -1,17 +1,10 @@
 var events = [
 	{
-		"name": "iPhone 17e & iPad Air M4 preorders",
-		"evDate": "Mar 04, 2026 06:15:00 GMT-08:00",
-		"notificationID": "mar2026pre",
+		"name": "WWDC26",
+		"evDate": "Jun 08, 2026 10:00:00 GMT-07:00",
+		"notificationID": "wwdc26",
 		"tagline": "",
-		"kind": "preorder"
-	},
-	{
-		"name": "iOS 26 release*",
-		"evDate": "Sep 15, 2025 10:00:00 GMT-07:00",
-		"notificationID": "ios26release",
-		"tagline": "New look.\nEven more magic.",
-		"kind": "release"
+		"kind": "event"
 	}
 ];
 
