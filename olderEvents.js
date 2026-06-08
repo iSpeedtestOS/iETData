@@ -36,6 +36,12 @@ setTimeout(function() {
 
 var oldEvents = [
 		{
+			"name": "WWDC 2026",
+			"month": "June",
+			"year": 2026,
+			"url": "https://events-delivery.apple.com/0601eknundukyswuegvjcidvurtztakr/vod_main_vdhwwrygnmzydhppixlrqwduiqffztdw/vod_main_vdhwwrygnmzydhppixlrqwduiqffztdw.m3u8"
+		},
+		{
 			"name": "Awe Dropping.",
 			"month": "September",
 			"year": 2025,
