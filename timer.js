@@ -1,9 +1,9 @@
 var events = [
 	{
-		"name": "WWDC26",
-		"evDate": "Jun 08, 2026 10:00:00 GMT-07:00",
-		"notificationID": "wwdc26",
-		"tagline": "",
+		"name": "September event",
+		"evDate": "Sep 09, 2026 10:00:00 GMT-07:00",
+		"notificationID": "sep26",
+		"tagline": "Surprise and shine.",
 		"kind": "event"
 	}
 ];
