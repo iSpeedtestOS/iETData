@@ -7,6 +7,13 @@ var events = [
 		"kind": "preorder"
 	},
 	{
+		"name": "iOS 27 release*",
+		"evDate": "Sep 14, 2026 10:00:00 GMT-07:00",
+		"notificationID": "ios27rel",
+		"tagline": "Truly helpful. Truly yours.",
+		"kind": "release"
+	},
+	{
 		"name": "iPhone Duo preorders",
 		"evDate": "Oct 16, 2026 05:00:00 GMT-07:00",
 		"notificationID": "sep26pre2",
