@@ -36,6 +36,12 @@ setTimeout(function() {
 
 var oldEvents = [
 		{
+			"name": "Surprise and shine.",
+			"month": "September",
+			"year": 2026,
+			"url": "https://events-delivery.apple.com/7297ElpSMNn2LZPPl9vkFV7w9WXbjB5s/m3u8/vod_main_JeyvV5ESJWYBatM.m3u8"
+		},
+		{
 			"name": "WWDC 2026",
 			"month": "June",
 			"year": 2026,
