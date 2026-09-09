@@ -9,7 +9,7 @@ var events = [
 	{
 		"name": "iPhone Duo preorders",
 		"evDate": "Oct 16, 2026 05:00:00 GMT-07:00",
-		"notificationID": "sep26pre",
+		"notificationID": "sep26pre2",
 		"tagline": "Hello, hello.",
 		"kind": "preorder"
 	}
