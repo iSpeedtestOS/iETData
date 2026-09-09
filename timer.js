@@ -1,10 +1,17 @@
 var events = [
 	{
-		"name": "September event",
-		"evDate": "Sep 09, 2026 10:00:00 GMT-07:00",
-		"notificationID": "sep26",
-		"tagline": "Surprise and shine.",
-		"kind": "event"
+		"name": "iPhone 18 Pro preorders",
+		"evDate": "Sep 12, 2026 05:00:00 GMT-07:00",
+		"notificationID": "sep26pre",
+		"tagline": "Pro further.",
+		"kind": "preorder"
+	},
+	{
+		"name": "iPhone Duo preorders",
+		"evDate": "Oct 16, 2026 05:00:00 GMT-07:00",
+		"notificationID": "sep26pre",
+		"tagline": "Hello, hello.",
+		"kind": "preorder"
 	}
 ];
 
