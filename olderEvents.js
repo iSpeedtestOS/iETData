@@ -36,6 +36,12 @@ setTimeout(function() {
 
 var oldEvents = [
 		{
+			"name": "HomeView",
+			"month": "October",
+			"year": 2026,
+			"url": "https://www.apple.com/105/media/us/apple-homeview/2026/f7ce47a8-10f2-455c-b99f-bf9b85a35cb6/films/product/apple-homeview-product-tpl-us-2026_16x9.m3u8"
+		},
+		{
 			"name": "Surprise and shine.",
 			"month": "September",
 			"year": 2026,
