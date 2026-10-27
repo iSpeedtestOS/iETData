@@ -7,6 +7,13 @@ var events = [
 		"kind": "preorder"
 	},
 	{
+		"name": "iMac & M6 MacBook Pro preorders",
+		"evDate": "Oct 28, 2026 10:10:00 GMT-07:00",
+		"notificationID": "sep26preimacmbp",
+		"tagline": "",
+		"kind": "preorder"
+	},
+	{
 		"name": "iOS 27 release*",
 		"evDate": "Sep 14, 2026 10:00:00 GMT-07:00",
 		"notificationID": "ios27rel",
